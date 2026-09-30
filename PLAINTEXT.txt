@@ -1,0 +1,12 @@
+hand-cricket-game/
+├── .gitignore
+├── LICENSE
+├── README.md
+├── statement.md
+├── requirements.txt
+├── src/
+│   ├── __init__.py
+│   └── game.py
+└── tests/
+    ├── __init__.py
+    └── test_game.py
